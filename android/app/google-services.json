@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "57511358083",
+    "project_id": "authandauth7890",
+    "storage_bucket": "authandauth7890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57511358083:android:acdfcd8611c8f03b8c35b6",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEATI-_39YtRiyDiJl2PFPUnablCB2j0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57511358083-m3v3vnfrp853kqbblealmj50qf0e1jub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstauth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57511358083:android:d87666290a2648538c35b6",
+        "android_client_info": {
+          "package_name": "com.example.fifteenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEATI-_39YtRiyDiJl2PFPUnablCB2j0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57511358083-m3v3vnfrp853kqbblealmj50qf0e1jub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstauth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57511358083:android:bed224b67e9ba8a08c35b6",
+        "android_client_info": {
+          "package_name": "com.example.firstauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEATI-_39YtRiyDiJl2PFPUnablCB2j0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57511358083-m3v3vnfrp853kqbblealmj50qf0e1jub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstauth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57511358083:android:53bff93a350941088c35b6",
+        "android_client_info": {
+          "package_name": "com.example.twentyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEATI-_39YtRiyDiJl2PFPUnablCB2j0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57511358083-05rvr2gn6p5qdgp1eb5djvmd9c2on8ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57511358083-m3v3vnfrp853kqbblealmj50qf0e1jub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
